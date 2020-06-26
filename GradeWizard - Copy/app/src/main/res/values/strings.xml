@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Grade Wizard</string>
+    <string name="logo_name">Logo</string>
+    <string name="your_grade_is">your grade is :</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="finals_30">Finals %30</string>
+    <string name="mid_terms_30">Mid Terms %30</string>
+    <string name="homework_25">Homework %25</string>
+    <string name="quizez_15">Quizez %15</string>
+    <string name="grade_calculater">Grade Calculater</string>
+    <string name="reset_grade">reset grade</string>
+    <string name="collage">Collage</string>
+    <string name="highschool">HighSchool</string>
+    <string name="middleschool">MiddleSchool</string>
+</resources>
